@@ -5,7 +5,9 @@
 [![Researchgate](https://raw.githubusercontent.com/amaiesc/study_r/master/docs/research_.png)](https://www.researchgate.net/profile/Sirinapa-Churassamee-2)
 
 ___________________________________________________________________________________________________________________________________
-
+>
+>
+*these hyperlink below are underconstruction, please visit later*
 
 > [*click to website.*](http://www.datatarot.com)
 >
@@ -50,12 +52,7 @@ ________________________________________________________________________________
 
 - [**Cheat Sheets: เอกสารสำหรับแมวหัวหมอ**](https://www.rstudio.com/resources/cheatsheets/)
 
-    
 
-> I do not have any lecture videos and do not write any contents outside Github.com. 
-So, if you find this github.io useful, you can click **DONATION icon** below to see information about how to donate.
->
-> Thank you!
 
 __________________________________________________________________________________________________________________
 
